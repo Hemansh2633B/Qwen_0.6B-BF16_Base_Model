@@ -1,5 +1,5 @@
 ---
-license: other
+license: apache license 2.0
 language:
 - en
 tags:
